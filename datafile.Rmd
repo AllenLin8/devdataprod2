@@ -1,8 +1,8 @@
 ---
 title: "Developing Data Products with Leaflet"
 author: "Allen Lin"
-date: "6/25/2020"
-output: ioslides_presentation
+date: "6/28/2020"
+output: html_document
 ---
 
 ## Overview
